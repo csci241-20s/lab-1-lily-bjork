@@ -111,3 +111,280 @@ Untracked files:
 	[31mtypescript[m
 
 bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git commit .gradle/
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[?1h=[?2004h[1;43r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[43;1H</repos/Labs/lab-1-lily-bjork/.git/COMMIT_EDITMSG"<s/lab-1-lily-bjork/.git/COMMIT_EDITMSG" 31L, 1254C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[34m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [m[35mmaster[m
+[34m# Your branch is ahead of '[m[35morigin/master[m[34m' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# [m[35mChanges to be committed:[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/executionHistory/executionHistory.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/executionHistory/executionHistory.lock[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/fileChanges/last-build.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/fileContent/fileContent.lock[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/fileHashes/fileHashes.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/fileHashes/fileHashes.lock[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/gc.properties[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/javaCompile/classAnalysis.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/javaCompile/javaCompile.lock[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/6.1/javaCompile/taskHistory.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/buildOutputCleanup/buildOutputCleanup.lock[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/buildOutputCleanup/cache.properties[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/buildOutputCleanup/outputFiles.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/checksums/checksums.lock[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/checksums/md5-checksums.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/checksums/sha1-checksums.bin[m
+[34m#       [m[32mnew file[m[34m: [m[31m  .gradle/vcs-1/gc.properties[m
+[34m#
+# [m[35mUntracked files:[m
+[34m#       [m[31mbuild/[m
+[34m#       [m[31mtypescript[m
+[34m#[m
+[94m~                                                                               [33;1H~                                                                               [34;1H~                                                                               [35;1H~                                                                               [36;1H~                                                                               [37;1H~                                                                               [38;1H~                                                                               [39;1H~                                                                               [40;1H~                                                                               [41;1H~                                                                               [42;1H~                                                                               [m[43;63H1,0-1[9CAll[1;1H[?25h[?25l[43;53H"[1;1H[?25h[?25l[43;54H"[1;1H[?25h[?25l[43;55Hi[1;1H[43;53H   [1;1H[43;1H[1m-- INSERT --[m[43;13H[K[43;63H1,1[11CAll[1;1H[?25h[?25l[38;5;130m"[m[43;65H2[1;2H[?25h[?25l[38;5;130mA[m[43;65H3[1;3H[?25h[?25l[38;5;130md[m[43;65H4[1;4H[?25h[?25l[38;5;130md[m[43;65H5[1;5H[?25h[?25l[38;5;130me[m[43;65H6[1;6H[?25h[?25l[38;5;130md[m[43;65H7[1;7H[?25h[?25l[38;5;130m [m[43;65H8[1;8H[?25h[?25l[38;5;130ma[m[43;65H9[1;9H[?25h[?25l[38;5;130m [m[43;65H10[1;10H[?25h[?25l[1;9H[K[43;65H9 [1;9H[?25h[?25l[1;8H[K[43;65H8[1;8H[?25h[?25l[38;5;130mg[m[43;65H9[1;9H[?25h[?25l[38;5;130mr[m[43;65H10[1;10H[?25h[?25l[38;5;130ma[m[43;66H1[1;11H[?25h[?25l[38;5;130md[m[43;66H2[1;12H[?25h[?25l[38;5;130ml[m[43;66H3[1;13H[?25h[?25l[38;5;130me[m[43;66H4[1;14H[?25h[?25l[38;5;130m [m[43;66H5[1;15H[?25h[?25l[38;5;130mb[m[43;66H6[1;16H[?25h[?25l[38;5;130mu[m[43;66H7[1;17H[?25h[?25l[38;5;130mi[m[43;66H8[1;18H[?25h[?25l[38;5;130ml[m[43;66H9[1;19H[?25h[?25l[38;5;130mt[m[43;65H20[1;20H[?25h[?25l[1;19H[K[43;65H19[1;19H[?25h[?25l[38;5;130md[m[43;65H20[1;20H[?25h[?25l[38;5;130m"[m[43;66H1[1;21H[?25h[?25l[2;42r[2;1H[L[1;43r[43;63H[K[43;63H2,1[11CAll[2;1H[?25h[?25l[1;42r[42;1H
+[1;43r[1;1H[38;5;130m"Added gradle build"[m[42;1H[94m~                                                                               [m[43;63H[K[43;63H1,21[10CAll[1;21H[?25h[43;1H[K[1;20H[?25l[43;53H^[[1;20H[43;53H  [1;21H[43;63H1,20[10CAll[1;20H[?25h[?25l[43;53H:[1;20H[43;53H[K[43;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l".git/COMMIT_EDITMSG" 31L, 1274C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t[K[master 36f55b2] "Added gradle build"
+ 17 files changed, 2 insertions(+)
+ create mode 100644 .gradle/6.1/executionHistory/executionHistory.bin
+ create mode 100644 .gradle/6.1/executionHistory/executionHistory.lock
+ create mode 100644 .gradle/6.1/fileChanges/last-build.bin
+ create mode 100644 .gradle/6.1/fileContent/fileContent.lock
+ create mode 100644 .gradle/6.1/fileHashes/fileHashes.bin
+ create mode 100644 .gradle/6.1/fileHashes/fileHashes.lock
+ create mode 100644 .gradle/6.1/gc.properties
+ create mode 100644 .gradle/6.1/javaCompile/classAnalysis.bin
+ create mode 100644 .gradle/6.1/javaCompile/javaCompile.lock
+ create mode 100644 .gradle/6.1/javaCompile/taskHistory.bin
+ create mode 100644 .gradle/buildOutputCleanup/buildOutputCleanup.lock
+ create mode 100644 .gradle/buildOutputCleanup/cache.properties
+ create mode 100644 .gradle/buildOutputCleanup/outputFiles.bin
+ create mode 100644 .gradle/checksums/checksums.lock
+ create mode 100644 .gradle/checksums/md5-checksums.bin
+ create mode 100644 .gradle/checksums/sha1-checksums.bin
+ create mode 100644 .gradle/vcs-1/gc.properties
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mbuild/[m
+	[31mtypescript[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git add build/
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git commit -m "a[KAdded build/[K"
+[master e652a46] Added build
+ 6 files changed, 285 insertions(+)
+ create mode 100644 build/distributions/lab1.tar
+ create mode 100644 build/distributions/lab1.zip
+ create mode 100644 build/libs/lab1.jar
+ create mode 100755 build/scripts/lab1
+ create mode 100644 build/scripts/lab1.bat
+ create mode 100644 build/tmp/jar/MANIFEST.MF
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git c[Kadd types[Kscru[Kipt
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git commit -m "a[KAdded typescript" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K"
+[master 1702bb9] Added typescript
+ 1 file changed, 113 insertions(+)
+ create mode 100644 typescript
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ gradle run --args=21[K41[K[K[K"241"
+
+
+[2A[1m<[0;1m-------------> 0% EXECUTING [97ms][m[35D[1B[1m> :compileJava[m[14D[1B[2A[0K
+[31;1m> Task :compileJava[0;39m[31m FAILED[39m
+/home/bjorkl2/repos/Labs/lab-1-lily-bjork/src/main/java/lab1/Hello.java:5: error: '(' or '[' expected
+    Scanner scanner=new Scanner;
+                               ^
+1 error
+
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+[33m> [39mCompilation failed; see the compiler error output for details.
+
+* Try:
+Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 682ms
+1 actionable task: 1 executed
+[0K
+[0K
+[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[2K[1B[2K[1A[0m[?12l[?25hbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ edit scr[K[Krc/main/java/j[Klab1/Hello.ja va
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;43r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[43;1H<s/lab-1-lily-bjork/src/main/java/lab1/Hello.java"<lily-bjork/src/main/java/lab1/Hello.java" 9L, 222C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[35mpackage[m lab1;
+[35mimport[m java.util.Scanner;
+[32mpublic[m [32mclass[m Hello {
+  [32mpublic[m [32mstatic[m [32mvoid[m main(String[] args) {
+    Scanner scanner=[38;5;130mnew[m Scanner;[6;11HString name=scanner.nextLine();
+    System.out.println([31m"Hello,"[m+name+[31m" !"[m);
+  }
+}
+[94m~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [30;1H~                                                                               [31;1H~                                                                               [32;1H~                                                                               [33;1H~                                                                               [34;1H~                                                                               [35;1H~                                                                               [36;1H~                                                                               [37;1H~                                                                               [38;1H~                                                                               [39;1H~                                                                               [40;1H~                                                                               [41;1H~                                                                               [42;1H~                                                                               [m[43;63H5,32[10CAll[5;32H[?25h[?25l[43;53Hi[5;32H[43;53H [5;32H[43;1H[1m-- INSERT --[m[43;13H[K[43;63H5,32[10CAll[5;32H[?25h[?25l[43;63H6,25-32[6;32H[?25h[?25l[43;63H5,32   [5;32H[?25h[?25l[43;63H4[4;32H[?25h[?25l[43;63H5[5;32H[?25h[?25l(;[43;66H3[5;33H[?25h[?25l);[106m()[m[43;66H4[5;34H[?25h[?25l()[43;66H5[5;35H[?25h[43;1H[K[5;34H[?25l[43;53H^[[5;34H[43;53H  [5;35H[43;63H5,34[10CAll[5;34H[?25h[?25l[43;53H:[5;34H[43;53H[K[43;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"src/main/java/lab1/Hello.java" 9L, 224C written
+[?2004l[?1l>[?25h[?1049l[23;0;0tbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git add scr/main/java/lab1/Hello .java
+fatal: pathspec 'scr/main/java/lab1/Hello.java' did not match any files
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git add src/main/java/lab1/Hello .java
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ gradle run --args="241"
+
+
+[2A[1m<[0;1m-------------> 0% EXECUTING [107ms][m[36D[1B[1m> :compileJava[m[14D[1B[2A[1m<[0;1m-------------> 0% EXECUTING [207ms][m[36D[2B[2A[1m<[0;1m-------------> 0% EXECUTING [307ms][m[36D[2B[2A[0K
+[31;1m> Task :compileJava[0;39m[31m FAILED[39m
+/home/bjorkl2/repos/Labs/lab-1-lily-bjork/src/main/java/lab1/Hello.java:5: error: no suitable constructor found for Scanner(no arguments)
+    Scanner scanner=new Scanner();
+                    ^
+    constructor Scanner.Scanner(Readable,Pattern) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(Readable) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(InputStream) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(InputStream,String) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(InputStream,Charset) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(File) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(File,String) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(File,Charset) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(File,CharsetDecoder) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(Path) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(Path,String) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(Path,Charset) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(String) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(ReadableByteChannel) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(ReadableByteChannel,String) is not applicable
+      (actual and formal argument lists differ in length)
+    constructor Scanner.Scanner(ReadableByteChannel,Charset) is not applicable
+      (actual and formal argument lists differ in length)
+1 error
+
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+[33m> [39mCompilation failed; see the compiler error output for details.
+
+* Try:
+Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 838ms
+1 actionable task: 1 executed
+[0K
+[0K
+[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[2K[1B[2K[1A[0m[?12l[?25hbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ edit sc[Krc/main/java/lab1/Hello.ja va
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;43r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[43;1H<s/lab-1-lily-bjork/src/main/java/lab1/Hello.java"<lily-bjork/src/main/java/lab1/Hello.java" 9L, 224C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[35mpackage[m lab1;
+[35mimport[m java.util.Scanner;
+[32mpublic[m [32mclass[m Hello {
+  [32mpublic[m [32mstatic[m [32mvoid[m main(String[] args) {
+    Scanner scanner=[38;5;130mnew[m Scanner();[6;11HString name=scanner.nextLine();
+    System.out.println([31m"Hello,"[m+name+[31m" !"[m);
+  }
+}
+[94m~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [30;1H~                                                                               [31;1H~                                                                               [32;1H~                                                                               [33;1H~                                                                               [34;1H~                                                                               [35;1H~                                                                               [36;1H~                                                                               [37;1H~                                                                               [38;1H~                                                                               [39;1H~                                                                               [40;1H~                                                                               [41;1H~                                                                               [42;1H~                                                                               [m[43;63H5,34[10CAll[5;34H[?25h[?25l[43;53Hi[5;34H[43;53H [5;34H[43;1H[1m-- INSERT --[m[43;13H[K[43;63H5,34[10CAll[5;34H[?25h[?25l[43;63H6,27-34[6;34H[?25h[?25l[5;32H[106m()[m[43;63H5,34   [5;34H[?25h[?25l[43;66H3[5;33H[?25h[?25l[106ms[m);s[106m)[m[43;66H4[5;34H[?25h[43;1H[K[5;33H[?25l[43;53H^[[5;33H[43;53H  [5;34H(s)[43;63H5,33[10CAll[5;33H[?25h[?25l[43;53H:[5;33H[43;53H[K[43;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"src/main/java/lab1/Hello.java" 9L, 225C written
+[?2004l[?1l>[?25h[?1049l[23;0;0tbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git add src/main/java/lab1/Hello .java
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ gradle run --args="241"
+
+
+[2A[1m<[0;1m-------------> 0% EXECUTING [96ms][m[35D[1B[1m> :compileJava[m[14D[1B[2A[0K
+[31;1m> Task :compileJava[0;39m[31m FAILED[39m
+/home/bjorkl2/repos/Labs/lab-1-lily-bjork/src/main/java/lab1/Hello.java:5: error: cannot find symbol
+    Scanner scanner=new Scanner(s);
+                                ^
+  symbol:   variable s
+  location: class Hello
+1 error
+
+[31mFAILURE: [39m[31mBuild failed with an exception.[39m
+
+* What went wrong:
+Execution failed for task ':compileJava'.
+[33m> [39mCompilation failed; see the compiler error output for details.
+
+[0K
+[0K
+[2A[1m<[0;31;1m===[0;39;1m----------> 25% EXECUTING [196ms][m[37D[1B> IDLE[6D[1B[2A* Try:[0K
+Run with [1m--stacktrace[m option to get the stack trace. Run with [1m--info[m or [1m--debug[m option to get more log output. Run with [1m--scan[m to get full insights.
+
+* Get more help at [1mhttps://help.gradle.org[m
+
+[31;1mBUILD FAILED[0;39m in 704ms
+1 actionable task: 1 executed
+[0K
+[0K
+[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[2K[1B[2K[1A[0m[?12l[?25hbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ edi [Kt src/main/java/lab1/Hello.ja va
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;43r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[43;1H<s/lab-1-lily-bjork/src/main/java/lab1/Hello.java"<lily-bjork/src/main/java/lab1/Hello.java" 9L, 225C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[35mpackage[m lab1;
+[35mimport[m java.util.Scanner;
+[32mpublic[m [32mclass[m Hello {
+  [32mpublic[m [32mstatic[m [32mvoid[m main(String[] args) {
+    Scanner scanner=[38;5;130mnew[m Scanner(s);[6;11HString name=scanner.nextLine();
+    System.out.println([31m"Hello,"[m+name+[31m" !"[m);
+  }
+}
+[94m~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [30;1H~                                                                               [31;1H~                                                                               [32;1H~                                                                               [33;1H~                                                                               [34;1H~                                                                               [35;1H~                                                                               [36;1H~                                                                               [37;1H~                                                                               [38;1H~                                                                               [39;1H~                                                                               [40;1H~                                                                               [41;1H~                                                                               [42;1H~                                                                               [m[43;63H5,33[10CAll[5;33H[?25h[?25l[43;53Hi[5;33H[43;53H [5;33H[43;1H[1m-- INSERT --[m[43;13H[K[43;63H5,33[10CAll[5;33H[?25h[?25l[106m([ms[106m)[m[43;66H4[5;34H[?25h[?25l[43;66H5[5;35H[?25h[?25l(s)[43;66H6[5;36H[?25h[?25l[5;35H[K[5;32H[106m([ms[106m)[m[43;66H5[5;35H[?25h[?25l[5;34H[K[5;32H([43;66H4[5;34H[?25h[?25l[5;33H[K[43;66H3[5;33H[?25h[?25l[5;32H[K[43;66H2[5;32H[?25h[?25l[5;31H[K[43;66H1[5;31H[?25h[?25l[5;30H[K[43;66H0[5;30H[?25h[?25l[5;29H[K[43;65H29[5;29H[?25h[?25l[5;28H[K[43;66H8[5;28H[?25h[?25l[5;27H[K[43;66H7[5;27H[?25h[?25l[5;26H[K[43;66H6[5;26H[?25h[?25l[5;25H[K[43;66H5[5;25H[?25h[?25l[43;66H4[5;24H[?25h[?25lne[5;23H[K[43;66H3[5;23H[?25h[?25l[5;22H[K[43;66H2[5;22H[?25h[?25l[5;21H[K[43;66H1[5;21H[?25h[?25l[5;20H[K[43;66H0[5;20H[?25h[?25l[5;19H[K[43;65H19[5;19H[?25h[?25l[5;18H[K[43;66H8[5;18H[?25h[?25l[5;17H[K[43;66H7[5;17H[?25h[?25l[5;16H[K[43;66H6[5;16H[?25h[?25l[5;15H[K[43;66H5[5;15H[?25h[?25l[5;14H[K[43;66H4[5;14H[?25h[?25l[5;13H[K[43;66H3[5;13H[?25h[?25l[43;66H2[5;12H[?25h[?25l[5;11H[K[43;66H1[5;11H[?25h[?25l[5;10H[K[43;66H0[5;10H[?25h[?25l[5;9H[K[43;65H9 [5;9H[?25h[?25l[5;8H[K[43;65H8[5;8H[?25h[?25l[5;7H[K[43;65H7[5;7H[?25h[?25l[5;6H[K[43;65H6[5;6H[?25h[?25l[5;5H[K[43;65H5[5;5H[?25h[?25l[43;63H6,1[6;1H[?25h[?25l[43;65H2-9[6;9H[?25h[?25l  String name=scanner.nextLine();[6;34H[K[43;65H1  [6;1H[?25h[?25l[5;42r[42;1H
+[1;43r[5;3H    String name=scanner.nextLine();[42;1H[94m~                                                                               [m[43;63H[K[43;63H5,5[11CAll[5;5H[?25h[?25l[43;65H6[5;6H[?25h[?25lString name=scanner.nextLine();[5;37H[K[43;65H5[5;5H[?25h[?25l[43;65H6[5;6H[?25h[?25lString name=scanner.nextLine();[5;36H[K[43;65H5[5;5H[?25h[?25l[43;65H6[5;6H[?25h[?25l[43;65H7[5;7H[?25h[?25l[43;65H8[5;8H[?25h[?25l[43;65H9[5;9H[?25h[?25l[43;65H10[5;10H[?25h[?25l[43;66H1[5;11H[?25h[?25l[43;66H3[5;13H[?25h[?25l[43;66H4[5;14H[?25h[?25l[43;66H5[5;15H[?25h[?25l[43;66H6[5;16H[?25h[?25l[43;66H7[5;17H[?25h[?25l[43;66H8[5;18H[?25h[?25l[43;66H9[5;19H[?25h[?25l[43;65H20[5;20H[?25h[?25l[43;66H1[5;21H[?25h[?25l[43;66H2[5;22H[?25h[?25l[43;66H3[5;23H[?25h[?25l[43;66H4[5;24H[?25h[?25l[43;66H5[5;25H[?25h[?25l[43;66H6[5;26H[?25h[?25l[43;66H7[5;27H[?25h[?25l[43;66H8[5;28H[?25h[?25l[43;66H9[5;29H[?25h[?25l[43;65H30[5;30H[?25h[?25l[43;66H1[5;31H[?25h[?25l[43;66H2[5;32H[?25h[?25le[106m()[m[43;66H3[5;33H[?25h[?25l[43;66H4[5;34H[?25h[?25l[43;66H5[5;35H[?25h[?25l()[43;66H6[5;36H[?25h[?25l[106m()[m[43;66H5[5;35H[?25h[?25l[106m;[m[5;35H[K[5;33H(;[43;66H4[5;34H[?25h[?25l;[5;34H[K[43;66H3[5;33H[?25h[?25l;[5;33H[K[43;66H2[5;32H[?25h[?25l;[5;32H[K[43;66H1[5;31H[?25h[?25l;[5;31H[K[43;66H0[5;30H[?25h[?25l;[5;30H[K[43;65H29[5;29H[?25h[?25l;[5;29H[K[43;66H8[5;28H[?25h[?25l;[5;28H[K[43;66H7[5;27H[?25h[?25l;[5;27H[K[43;66H6[5;26H[?25h[?25l;[5;26H[K[43;66H5[5;25H[?25h[?25l;[5;25H[K[43;66H4[5;24H[?25h[?25l;[5;24H[K[43;66H3[5;23H[?25h[?25l;[5;23H[K[43;66H2[5;22H[?25h[?25l;[5;22H[K[43;66H1[5;21H[?25h[?25l;[5;21H[K[43;66H0[5;20H[?25h[?25l;[5;20H[K[43;65H19[5;19H[?25h[?25l;[5;19H[K[43;66H8[5;18H[?25h[?25l;[5;18H[K[43;66H7[5;17H[?25h[?25la;[43;66H8[5;18H[?25h[?25lr;[43;66H9[5;19H[?25h[?25lg;[43;65H20[5;20H[?25h[?25ls;[43;66H1[5;21H[?25h[?25l[;[43;66H2[5;22H[?25h[?25l[31m0[m;[43;66H3[5;23H[?25h[?25l];[106m[[1C][m[43;66H4[5;24H[?25h[?25l[[1C][43;63H4[4;24H[?25h[?25l[3;20H[106m{[8;1H}[m[43;63H3,21[3;21H[?25h[?25l{[8;1H}[43;63H2,24[2;24H[?25h[?25l[43;66H5[2;25H[?25h[?25l[43;66H6[2;26H[?25h[?25l[2;25H[K[43;66H5[2;25H[?25h[?25l[2;24H[K[43;66H4[2;24H[?25h[?25l[2;23H[K[43;66H3[2;23H[?25h[?25l[2;22H[K[43;66H2[2;22H[?25h[?25l[2;21H[K[43;66H1[2;21H[?25h[?25l[2;20H[K[43;66H0[2;20H[?25h[?25l[2;19H[K[43;65H19[2;19H[?25h[?25l[2;18H[K[43;66H8[2;18H[?25h[?25l[2;17H[K[43;66H7[2;17H[?25h[?25l[2;16H[K[43;66H6[2;16H[?25h[?25l[2;15H[K[43;66H5[2;15H[?25h[?25l[2;14H[K[43;66H4[2;14H[?25h[?25l[2;13H[K[43;66H3[2;13H[?25h[?25l[2;12H[K[43;66H2[2;12H[?25h[?25l[2;11H[K[43;66H1[2;11H[?25h[?25l[2;10H[K[43;66H0[2;10H[?25h[?25l[2;9H[K[43;65H9 [2;9H[?25h[?25l[2;8H[K[43;65H8[2;8H[?25h[?25l[43;65H7[2;7H[?25h[?25limpor[2;6H[K[43;65H6[2;6H[?25h[?25l[2;5H[K[43;65H5[2;5H[?25h[?25l[2;4H[K[43;65H4[2;4H[?25h[?25l[2;3H[K[43;65H3[2;3H[?25h[?25l[2;2H[K[43;65H2[2;2H[?25h[?25l[2;1H[K[43;65H1[2;1H[?25h[43;1H[K[2;1H[?25l[43;53H^[[2;1H[43;53H  [2;1H[43;63H2,0-1[9CAll[2;1H[?25h[?25l[43;53H:[2;1H[43;53H[K[43;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"src/main/java/lab1/Hello.java" 8L, 154C written
+[?2004l[?1l>[?25h[?1049l[23;0;0tbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git add src/main/java/lab1/Hello .java
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ gradle run --args="241"
+
+
+[2A[1m<[0;1m-------------> 0% INITIALIZING [12ms][m[38D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;1m-------------> 0% EXECUTING [112ms][m[0K[36D[1B[1m> :compileJava[m[0K[14D[1B[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [212ms][m[37D[1B[1m> :run[m[0K[6D[1B[2A[0K
+[1m> Task :run[m
+Hello,241 !
+
+[32;1mBUILD SUCCESSFUL[0;39m in 818ms
+2 actionable tasks: 2 executed
+[0K
+[0K
+[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[2K[1B[2K[1A[0m[?12l[?25hbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ edit src/main/java/lab1/Hello.ja va
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;43r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[43;1H<s/lab-1-lily-bjork/src/main/java/lab1/Hello.java"<lily-bjork/src/main/java/lab1/Hello.java" 8L, 154C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[35mpackage[m lab1;
+
+[32mpublic[m [32mclass[m Hello {
+  [32mpublic[m [32mstatic[m [32mvoid[m main(String[] args) {
+    String name=args[[31m0[m];
+    System.out.println([31m"Hello,"[m+name+[31m" !"[m);
+  }
+}
+[94m~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [30;1H~                                                                               [31;1H~                                                                               [32;1H~                                                                               [33;1H~                                                                               [34;1H~                                                                               [35;1H~                                                                               [36;1H~                                                                               [37;1H~                                                                               [38;1H~                                                                               [39;1H~                                                                               [40;1H~                                                                               [41;1H~                                                                               [42;1H~                                                                               [m[43;63H2,0-1[9CAll[2;1H[?25h[?25l[43;53Hi[2;1H[43;53H [2;1H[43;1H[1m-- INSERT --[m[43;13H[K[43;63H2,1[11CAll[2;1H[?25h[?25l[43;63H1[1;1H[?25h[?25l[43;63H2[2;1H[?25h[?25l[43;63H3[3;1H[?25h[?25l[43;63H4[4;1H[?25h[?25l[43;63H5[5;1H[?25h[?25l[43;63H6[6;1H[?25h[?25l[43;65H2[6;2H[?25h[?25l[43;65H3[6;3H[?25h[?25l[43;65H4[6;4H[?25h[?25l[43;65H5[6;5H[?25h[?25l[43;65H6[6;6H[?25h[?25l[43;65H7[6;7H[?25h[?25l[43;65H8[6;8H[?25h[?25l[43;65H9[6;9H[?25h[?25l[43;65H10[6;10H[?25h[?25l[43;66H1[6;11H[?25h[?25l[43;66H2[6;12H[?25h[?25l[43;66H3[6;13H[?25h[?25l[43;66H4[6;14H[?25h[?25l[43;66H5[6;15H[?25h[?25l[43;66H6[6;16H[?25h[?25l[43;66H7[6;17H[?25h[?25l[43;66H8[6;18H[?25h[?25l[43;66H9[6;19H[?25h[?25l[43;65H20[6;20H[?25h[?25l[43;66H1[6;21H[?25h[?25l[43;66H2[6;22H[?25h[?25ln[106m([18C)[m[43;66H3[6;23H[?25h[?25l[43;66H4[6;24H[?25h[?25l([18C)[43;66H5[6;25H[?25h[?25l[43;66H6[6;26H[?25h[?25l[43;66H7[6;27H[?25h[?25l[43;66H8[6;28H[?25h[?25l[43;66H9[6;29H[?25h[?25l[43;65H30[6;30H[?25h[?25l[43;66H1[6;31H[?25h[?25l[43;66H2[6;32H[?25h[?25l[43;66H3[6;33H[?25h[?25l[43;66H4[6;34H[?25h[?25l[43;66H5[6;35H[?25h[?25l[43;66H6[6;36H[?25h[?25l[43;66H7[6;37H[?25h[?25l[43;66H8[6;38H[?25h[?25l[43;66H9[6;39H[?25h[?25l[43;65H40[6;40H[?25h[?25l[31m!"[m);[6;43H[K[43;65H39[6;39H[?25h[?25l[43;66H8[6;38H[?25h[?25l[43;66H7[6;37H[?25h[?25l[43;66H6[6;36H[?25h[?25l[43;66H5[6;35H[?25h[?25l[43;66H4[6;34H[?25h[?25l[43;66H3[6;33H[?25h[?25l[43;66H2[6;32H[?25h[?25l[43;66H1[6;31H[?25h[?25l[31m "[m+name+[31m"!"[m);[43;66H2[6;32H[?25h[43;1H[K[6;31H[?25l[43;53H^[[6;31H[43;53H  [6;32H[43;63H6,31[10CAll[6;31H[?25h[?25l[43;53H:[6;31H[43;53H[K[43;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"src/main/java/lab1/Hello.java" 8L, 154C written
+[?2004l[?1l>[?25h[?1049l[23;0;0tbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git add src/main/java/lab1/Hello .java
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ gradle run --args="Lily"
+
+
+[2A[1m<[0;1m-------------> 0% INITIALIZING [12ms][m[38D[1B[1m> Evaluating settings[m[21D[1B[2A[1m<[0;1m-------------> 0% EXECUTING [112ms][m[0K[36D[1B[1m> :compileJava[m[0K[14D[1B[2A[1m<[0;32;1m=========[0;39;1m----> 75% EXECUTING [212ms][m[37D[1B[1m> :run[m[0K[6D[1B[2A[0K
+[1m> Task :run[m
+Hello, Lily!
+
+[32;1mBUILD SUCCESSFUL[0;39m in 800ms
+2 actionable tasks: 2 executed
+[0K
+[0K
+[2A[1m<[0;1m-------------> 0% WAITING[m[26D[1B> IDLE[6D[1B[2A[2K[1B[2K[1A[0m[?12l[?25hbjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git add sc[Krc/main/java/lab1/Hello .java
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git commit -m "Hello now prints  line arg"
+[master ae2290d] Hello now prints line arg
+ 1 file changed, 3 insertions(+), 4 deletions(-)
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ git push
+Username for 'https://github.com': lily-bjork
+Password for 'https://lily-bjork@github.com': 
+Counting objects: 58, done.
+Delta compression using up to 8 threads.
+Compressing objects:   2% (1/35)   Compressing objects:   5% (2/35)   Compressing objects:   8% (3/35)   Compressing objects:  11% (4/35)   Compressing objects:  14% (5/35)   Compressing objects:  17% (6/35)   Compressing objects:  20% (7/35)   Compressing objects:  22% (8/35)   Compressing objects:  25% (9/35)   Compressing objects:  28% (10/35)   Compressing objects:  31% (11/35)   Compressing objects:  34% (12/35)   Compressing objects:  37% (13/35)   Compressing objects:  40% (14/35)   Compressing objects:  42% (15/35)   Compressing objects:  45% (16/35)   Compressing objects:  48% (17/35)   Compressing objects:  51% (18/35)   Compressing objects:  54% (19/35)   Compressing objects:  57% (20/35)   Compressing objects:  60% (21/35)   Compressing objects:  62% (22/35)   Compressing objects:  65% (23/35)   Compressing objects:  68% (24/35)   Compressing objects:  71% (25/35)   Compressing objects:  74% (26/35)   Compressing objects:  77% (27/35)   Compressing objects:  80% (28/35)   Compressing objects:  82% (29/35)   Compressing objects:  85% (30/35)   Compressing objects:  88% (31/35)   Compressing objects:  91% (32/35)   Compressing objects:  94% (33/35)   Compressing objects:  97% (34/35)   Compressing objects: 100% (35/35)   Compressing objects: 100% (35/35), done.
+Writing objects:   1% (1/58)   Writing objects:   3% (2/58)   Writing objects:   5% (3/58)   Writing objects:   6% (4/58)   Writing objects:   8% (5/58)   Writing objects:  10% (6/58)   Writing objects:  12% (7/58)   Writing objects:  13% (8/58)   Writing objects:  15% (9/58)   Writing objects:  17% (10/58)   Writing objects:  18% (11/58)   Writing objects:  20% (12/58)   Writing objects:  22% (13/58)   Writing objects:  24% (14/58)   Writing objects:  25% (15/58)   Writing objects:  27% (16/58)   Writing objects:  31% (18/58)   Writing objects:  32% (19/58)   Writing objects:  34% (20/58)   Writing objects:  36% (21/58)   Writing objects:  37% (22/58)   Writing objects:  39% (23/58)   Writing objects:  41% (24/58)   Writing objects:  43% (25/58)   Writing objects:  44% (26/58)   Writing objects:  46% (27/58)   Writing objects:  48% (28/58)   Writing objects:  51% (30/58)   Writing objects:  53% (31/58)   Writing objects:  55% (32/58)   Writing objects:  56% (33/58)   Writing objects:  58% (34/58)   Writing objects:  60% (35/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  62% (36/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  63% (37/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  65% (38/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  67% (39/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  68% (40/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  70% (41/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  72% (42/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  74% (43/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  75% (44/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  77% (45/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  79% (46/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  81% (47/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  82% (48/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  84% (49/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  86% (50/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  87% (51/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  89% (52/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  91% (53/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  93% (54/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  94% (55/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  96% (56/58), 2.73 MiB | 5.34 MiB/s   Writing objects:  98% (57/58), 2.73 MiB | 5.34 MiB/s   Writing objects: 100% (58/58), 2.73 MiB | 5.34 MiB/s   Writing objects: 100% (58/58), 5.12 MiB | 6.83 MiB/s, done.
+Total 58 (delta 10), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/10)[Kremote: Resolving deltas:  40% (4/10)[Kremote: Resolving deltas:  90% (9/10)[Kremote: Resolving deltas: 100% (10/10)[Kremote: Resolving deltas: 100% (10/10), completed with 1 local object.[K
+To https://github.com/csci241-20s/lab-1-lily-bjork
+   dd353dc..ae2290d  master -> master
+bjorkl2@linux-09:~/repos/Labs/lab-1-lily-bjork$ exit
+exit
+
+Script done on 2020-04-12 10:55:11-0700
